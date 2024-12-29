@@ -1,0 +1,17 @@
+.chat-history {
+    padding: 10px;
+  }
+  
+  .history-item {
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
+  
+  .history-item.active {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
